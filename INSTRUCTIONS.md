@@ -17,5 +17,8 @@ git checkout <branch name>
 7. push it up `git push`
 8. create a PR to merge to `main`
 9. review your own pull request
-10. merge the pull request
+10. merge the pull request 
 -----------------------------
+Very tricky when doing pr, it will default to ntu repo if we forget to change the base repo to ours, how do I delete the pr that I accidentally created in the ntu repo?
+
+remember to select own repo for the base
